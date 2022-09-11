@@ -1,0 +1,10 @@
+Algoritmo para reproducir una canción en youtube desde tu celular:
+
+1.Tomar el celular.
+2. Desbloquear el celular.
+3. Revisar si se tiene instalada la aplicación de youtube.
+4. Si no se tiene, descargar la aplicación.
+5. Abrir la aplicacion "Youtube"
+6. Escribir en el buscador el nombre de la canción a reproducir y presionar "Enter"
+7. Buscar entre la lista de resultados la canción que mas se apega a lo que buscamos y dar clic sobre la miniatura
+8. Pulsar reproducir al video y ajustar el volumen
